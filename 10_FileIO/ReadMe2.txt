@@ -1,0 +1,1 @@
+e	o	a	e	i	a	i	e	u	a	I	a	e	a	i	o	a	i	a	u	a	e	a	o	u	a	e	

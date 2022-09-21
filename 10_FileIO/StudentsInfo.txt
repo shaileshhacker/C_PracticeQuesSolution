@@ -1,0 +1,32 @@
+*******Information of all Students*******
+
+Information of Student: 1
+Name: Shailesh Kumar
+Marks: 97
+CGPA: 9.70
+Course: JavaScript
+
+Information of Student: 2
+Name: Leesha Singh
+Marks: 91
+CGPA: 9.10
+Course: Physics
+
+Information of Student: 3
+Name: Sunidhi Chauhan
+Marks: 85
+CGPA: 8.50
+Course: Mathematics
+
+Information of Student: 4
+Name: Gunjan Singh
+Marks: 80
+CGPA: 8.12
+Course: English
+
+Information of Student: 5
+Name: Shradha Khapra
+Marks: 98
+CGPA: 9.82
+Course: Data Structures and Algorithms
+
